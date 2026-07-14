@@ -1,7 +1,7 @@
 # Mutual Funds Analytics Dashboard 📊
-
 ## Overview
-This project is an interactive Power BI dashboard for analyzing mutual fund performance, fund categories, returns, and investment insights.
+
+The Mutual Funds Analytics Dashboard is an interactive Power BI project developed to analyze mutual fund performance, risk, returns, and fund categories. The dashboard leverages Power Query for data transformation and DAX for calculations to deliver meaningful insights through interactive visualizations and KPI cards. It helps investors and analysts compare fund performance, identify top-performing categories, and support data-driven investment decisions.
 
 ## Features
 - Executive Summary Dashboard
