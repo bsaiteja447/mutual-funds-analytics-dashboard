@@ -39,8 +39,32 @@ README.md
 
 ![Performance Dashboard](Screenshot%20(161).png)
 
+## Business Insights
+
+- Equity funds generated the highest average returns.
+- Debt funds provided lower risk with stable performance.
+- Top-performing funds consistently outperformed the average.
+- Interactive filters allow detailed category-wise analysis.
+- KPI cards provide quick investment performance insights.
+- 
+## Skills Demonstrated
+
+- Power BI Dashboard Development
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- Power Query
+- Business Intelligence
+- Data Visualization
 ## Author
 
 **Saiteja Boothpur**
 
-Aspiring Data Analyst | Power BI | SQL | Python | Excel
+Aspiring Data Analyst
+
+### Connect with me
+
+- LinkedIn: *(add your LinkedIn URL)*
+- GitHub: https://github.com/bsaiteja447
+
+
