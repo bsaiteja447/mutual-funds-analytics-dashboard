@@ -29,10 +29,15 @@ Notebook/
 Report/
 README.md
 ```
-
 ## Dashboard Preview
 
-(Add dashboard screenshots here.)
+### Executive Dashboard
+
+![Executive Dashboard](Screenshot%20(160).png)
+
+### Performance Dashboard
+
+![Performance Dashboard](Screenshot%20(161).png)
 
 ## Author
 
