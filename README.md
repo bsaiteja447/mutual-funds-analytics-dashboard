@@ -33,11 +33,11 @@ README.md
 
 ### Executive Dashboard
 
-![Executive Dashboard](Screenshot%20(160).png)
+![Executive Dashboard](Executive_Dashboard.png)
 
 ### Performance Dashboard
 
-![Performance Dashboard](Screenshot%20(161).png)
+![Performance Dashboard](Performance_Dashboard.png)
 
 ## Business Insights
 
